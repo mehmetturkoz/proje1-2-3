@@ -1,6 +1,6 @@
 # Veri Yapıları Ve Algortmalar Projeleri
 
-[www.patika.dev](www.patika.dev)
+[www.patika.dev](https://www.patika.dev/tr)
 
 ## PROJE 1 (Insertion Sort)
 ```
